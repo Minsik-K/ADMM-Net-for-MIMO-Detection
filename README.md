@@ -1,13 +1,13 @@
 # ADMM Network for MIMO Detection
  
-**This repository contains the and hyperparameters code for the paper:**
+**This repository contains the code and the hyperparameters for the paper:**
 
 *M. Kim and D. Park, "Learnable MIMO Detection Networks based on Inexact ADMM," accepted for publication in IEEE Transactions on Wireless Communications, 2020.* 
 <!--
 (https://...)
 -->
 
-If you use this code for your research, please cite our papers.
+If you use this code for your research, please cite our paper.
 
 ## Software Versions
 * python 3.5.6
